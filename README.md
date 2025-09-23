@@ -9,8 +9,8 @@ The work explored several complementary directions:
 - **MS-ARCH-X model:** extension of Markov-switching ARCH to include exogenous variables, aiming to capture regime-specific volatility shifts.  
 - **Regime-aware analysis:** estimation of regime-specific GARCH models, standardization of returns, and comparison of raw vs. standardized correlation matrices.  
 - **Local GARCH fits:** regime-constrained rolling estimations to confirm structural differences across periods.  
-- **Unsupervised methods:** use of clustering (e.g., K-means) on volatility and correlation features to validate the regime classification.  
-- **Variable selection:** simulation experiments with LASSO to test its ability to identify relevant exogenous drivers of volatility.  
+- **Unsupervised methods:** use of correlation features to validate the regime classification.  
+- **Variable selection:** simulation experiments with LASSO to test its ability to identify relevant exogenous drivers of volatility (not finished)
 
 Together, these methods provided a deeper understanding of how correlations and volatility structures change across regimes, especially during crises when co-movements strengthen and become more homogeneous.  
 
