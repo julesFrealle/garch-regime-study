@@ -6,7 +6,7 @@ The project focused on modelling financial time series volatility and dependence
 The work explored several complementary directions:
 
 - **ARCH/GARCH models:** implementation and estimation of volatility dynamics, both globally and within regimes.  
-- **MS-ARCH-X model:** extension of Markov-switching ARCH to include exogenous variables, aiming to capture regime-specific volatility shifts.  
+- **Markov switching model:** extension of Markov-switching ARCH to include exogenous variables, aiming to capture regime-specific volatility shifts.  
 - **Regime-aware analysis:** estimation of regime-specific GARCH models, standardization of returns, and comparison of raw vs. standardized correlation matrices.  
 - **Local GARCH fits:** regime-constrained rolling estimations to confirm structural differences across periods.  
 - **Unsupervised methods:** use of correlation features to validate the regime classification.  
