@@ -1,4 +1,4 @@
-# Research Internship — MS-ARCH-X Volatility Modelling
+# Research Internship — Regime Study of ARCH Volatility Model
 
 This repository contains the material from my six-week research internship at **CREST–ENSAE**, supervised by **Raphaël Thabut (PhD)**.  
 The project focused on modelling financial time series volatility and dependence across **different market regimes** (stability, crisis, recovery).  
