@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Generated results (re-created by the notebooks)
+SimulatedResults/
+Results/
+Datasets/
+*.pkl

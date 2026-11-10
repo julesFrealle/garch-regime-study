@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+statsmodels
+arch
+scikit-learn
+tqdm
+openpyxl
+jupyterlab
